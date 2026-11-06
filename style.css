@@ -521,7 +521,8 @@ h1 em {
 }
 
 .site-footer > p,
-.footer-place {
+.footer-place,
+.footer-copyright {
     margin: 0;
     color: #83877f;
     font-size: 10px;
@@ -533,6 +534,10 @@ h1 em {
 }
 
 .footer-place {
+    text-align: right;
+}
+
+.footer-copyright {
     text-align: right;
 }
 
